@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/maqwebsite/static/css/main.d520c55a.chunk.css",
-    "main.js": "/maqwebsite/static/js/main.09e9c68e.chunk.js",
-    "main.js.map": "/maqwebsite/static/js/main.09e9c68e.chunk.js.map",
+    "main.css": "/maqwebsite/static/css/main.d390cf9d.chunk.css",
+    "main.js": "/maqwebsite/static/js/main.611d5a59.chunk.js",
+    "main.js.map": "/maqwebsite/static/js/main.611d5a59.chunk.js.map",
     "runtime-main.js": "/maqwebsite/static/js/runtime-main.dbd30925.js",
     "runtime-main.js.map": "/maqwebsite/static/js/runtime-main.dbd30925.js.map",
-    "static/js/2.6dd394b6.chunk.js": "/maqwebsite/static/js/2.6dd394b6.chunk.js",
-    "static/js/2.6dd394b6.chunk.js.map": "/maqwebsite/static/js/2.6dd394b6.chunk.js.map",
+    "static/js/2.5fb193a7.chunk.js": "/maqwebsite/static/js/2.5fb193a7.chunk.js",
+    "static/js/2.5fb193a7.chunk.js.map": "/maqwebsite/static/js/2.5fb193a7.chunk.js.map",
     "index.html": "/maqwebsite/index.html",
-    "static/css/main.d520c55a.chunk.css.map": "/maqwebsite/static/css/main.d520c55a.chunk.css.map",
-    "static/js/2.6dd394b6.chunk.js.LICENSE.txt": "/maqwebsite/static/js/2.6dd394b6.chunk.js.LICENSE.txt",
+    "static/css/main.d390cf9d.chunk.css.map": "/maqwebsite/static/css/main.d390cf9d.chunk.css.map",
+    "static/js/2.5fb193a7.chunk.js.LICENSE.txt": "/maqwebsite/static/js/2.5fb193a7.chunk.js.LICENSE.txt",
     "static/media/avatar.jpg": "/maqwebsite/static/media/avatar.21d108f8.jpg",
     "static/media/bg1.jpg": "/maqwebsite/static/media/bg1.71a28027.jpg",
     "static/media/bg11.jpg": "/maqwebsite/static/media/bg11.c6c21bd8.jpg",
@@ -29,14 +29,15 @@
     "static/media/julie.jpg": "/maqwebsite/static/media/julie.00733edf.jpg",
     "static/media/landing.jpg": "/maqwebsite/static/media/landing.6fa0380a.jpg",
     "static/media/login.jpg": "/maqwebsite/static/media/login.ab931d77.jpg",
+    "static/media/maqlogowhite.7d534d7b.png": "/maqwebsite/static/media/maqlogowhite.7d534d7b.png",
     "static/media/now-ui-kit.scss?v=1.5.0": "/maqwebsite/static/media/nucleo-outline.802141dd.woff2",
     "static/media/profile.jpg": "/maqwebsite/static/media/profile.5f3b8e69.jpg",
     "static/media/ryan.jpg": "/maqwebsite/static/media/ryan.ca24473b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.dbd30925.js",
-    "static/js/2.6dd394b6.chunk.js",
-    "static/css/main.d520c55a.chunk.css",
-    "static/js/main.09e9c68e.chunk.js"
+    "static/js/2.5fb193a7.chunk.js",
+    "static/css/main.d390cf9d.chunk.css",
+    "static/js/main.611d5a59.chunk.js"
   ]
 }
