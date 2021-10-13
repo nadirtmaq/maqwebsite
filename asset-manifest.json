@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/maqwebsite/static/css/main.d520c55a.chunk.css",
-    "main.js": "/maqwebsite/static/js/main.10261bb6.chunk.js",
-    "main.js.map": "/maqwebsite/static/js/main.10261bb6.chunk.js.map",
+    "main.js": "/maqwebsite/static/js/main.09e9c68e.chunk.js",
+    "main.js.map": "/maqwebsite/static/js/main.09e9c68e.chunk.js.map",
     "runtime-main.js": "/maqwebsite/static/js/runtime-main.dbd30925.js",
     "runtime-main.js.map": "/maqwebsite/static/js/runtime-main.dbd30925.js.map",
     "static/js/2.6dd394b6.chunk.js": "/maqwebsite/static/js/2.6dd394b6.chunk.js",
@@ -37,6 +37,6 @@
     "static/js/runtime-main.dbd30925.js",
     "static/js/2.6dd394b6.chunk.js",
     "static/css/main.d520c55a.chunk.css",
-    "static/js/main.10261bb6.chunk.js"
+    "static/js/main.09e9c68e.chunk.js"
   ]
 }
